@@ -1,0 +1,13 @@
+C:\Users\lenovo\Desktop\Dotnet_Examples\Assigment_C#\LogtoCsv\bin\Debug\netcoreapp3.1\LogtoCsv.exe
+C:\Users\lenovo\Desktop\Dotnet_Examples\Assigment_C#\LogtoCsv\bin\Debug\netcoreapp3.1\LogtoCsv.deps.json
+C:\Users\lenovo\Desktop\Dotnet_Examples\Assigment_C#\LogtoCsv\bin\Debug\netcoreapp3.1\LogtoCsv.runtimeconfig.json
+C:\Users\lenovo\Desktop\Dotnet_Examples\Assigment_C#\LogtoCsv\bin\Debug\netcoreapp3.1\LogtoCsv.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\Dotnet_Examples\Assigment_C#\LogtoCsv\bin\Debug\netcoreapp3.1\LogtoCsv.dll
+C:\Users\lenovo\Desktop\Dotnet_Examples\Assigment_C#\LogtoCsv\bin\Debug\netcoreapp3.1\LogtoCsv.pdb
+C:\Users\lenovo\Desktop\Dotnet_Examples\Assigment_C#\LogtoCsv\obj\Debug\netcoreapp3.1\LogtoCsv.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Dotnet_Examples\Assigment_C#\LogtoCsv\obj\Debug\netcoreapp3.1\LogtoCsv.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Dotnet_Examples\Assigment_C#\LogtoCsv\obj\Debug\netcoreapp3.1\LogtoCsv.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Dotnet_Examples\Assigment_C#\LogtoCsv\obj\Debug\netcoreapp3.1\LogtoCsv.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Dotnet_Examples\Assigment_C#\LogtoCsv\obj\Debug\netcoreapp3.1\LogtoCsv.dll
+C:\Users\lenovo\Desktop\Dotnet_Examples\Assigment_C#\LogtoCsv\obj\Debug\netcoreapp3.1\LogtoCsv.pdb
+C:\Users\lenovo\Desktop\Dotnet_Examples\Assigment_C#\LogtoCsv\obj\Debug\netcoreapp3.1\LogtoCsv.genruntimeconfig.cache
